@@ -28,5 +28,12 @@ Install Python language from
 https://www.python.org/downloads/
 
 1.	Clone the repository or the zip file uploaded.
-2.	Install Tkinter if you are using visual studio or any other interpreter. If the interpreter is IDLE, it is not required.
+2.	git clone https://github.com/Megh-a-na/SDP/
+3.	Install Tkinter if you are using visual studio or any other interpreter. If the interpreter is IDLE, it is not required.
 
+Credits:
+---
+1. Medha Pattupala 3122235002069
+2. Meghana Kumar 3122235002070
+3. Mithun Karthick 3122235002071
+4. Mohit R 3122235002072
