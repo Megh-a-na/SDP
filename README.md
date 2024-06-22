@@ -33,7 +33,7 @@ https://www.python.org/downloads/
 
 Credits:
 ---
-1. Medha Pattupala 3122235002069
-2. Meghana Kumar 3122235002070
-3. Mithun Karthick 3122235002071
-4. Mohit R 3122235002072
+1. Medha Pattupala
+2. Meghana Kumar
+3. Mithun Karthick
+4. Mohit R
